@@ -4,9 +4,11 @@
 - 💞️ I’m looking to collaborate on system development
 - 📫 How to reach me on my personal email asera.wa@gmail.com
 
-私はアセラです
+
+始めまして
+アセラです
 サモア人です
-熊本大学勉強したいました
+三年間は熊本大学を勉強したいました
 日本語あんまり上手じゃないです
 よろしくお願いします
 
