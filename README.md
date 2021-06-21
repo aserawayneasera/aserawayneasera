@@ -5,11 +5,13 @@
 - 📫 How to reach me on my personal email asera.wa@gmail.com
 
 
+こんにちは
 始めまして
 アセラです
 サモア人です
 三年間熊本大学を勉強しました
 よろしくお願いします
+メール: asera.wa@gmail.com
 
 <!---
 aserawayneasera/aserawayneasera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
