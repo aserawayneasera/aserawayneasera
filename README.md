@@ -52,7 +52,8 @@ Features: client management, invoice CRUD with line items, status tracking (draf
 
 - 🎓 **PhD, Computer Science** — Kumamoto University *(ongoing, 2023–2026)*  
   Research: Object Detection · Publication in review
-- 🎓 **Master of Engineering, CS** — Kumamoto University *(2016–2018)*  
+- 🎓 **Master of Engineering, CS** — Kumamoto University *(2016–2018)*
+  Research: Liveness detection in Fingerprints
   Published: *Weber Centralized Binary Fusion Description for Fingerprint Liveness Detection*, IEICE 2019
 - 🎓 **BSc, Computer Science** — University of the South Pacific, Fiji *(2004–2009)*
 
