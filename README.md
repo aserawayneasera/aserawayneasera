@@ -1,6 +1,6 @@
 # Hi, I'm Wayne 👋
 
-PhD student in Computer Science at Kumamoto University, Japan — research focus in Object Detection and Computer Vision. Full-stack web developer with 8+ years of experience across government, utilities, and environmental organisations.
+PhD student in Computer Science at Kumamoto University, Japan — research focus in Object Detection and Computer Vision. IT professional with 8+ years of experience across government, utilities, and international environmental organisations.
 
 Currently building projects to transition into product engineering roles in Japan.
 
