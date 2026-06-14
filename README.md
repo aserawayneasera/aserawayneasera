@@ -35,18 +35,15 @@ Stack: Ruby on Rails 8 · RSpec · Docker Compose · PostgreSQL
 
 ## Research
 
-**BA-LGF: Bounding-Box Aware Local-Global Feature Fusion for Object Detection in Adverse Weather**  
-
+**BA-LGF: Bounding-Box Aware Local-Global Feature Fusion for Object Detection in Adverse Weather**    
 [DEXA 2026](https://www.dexa.org/2026/dexa2026.html) - Graz, Austria 
 
 Object detectors tend to fall apart in rain and fog. BA-LGF improves detection in those conditions and is designed to run efficiently on edge hardware.
 
-**Local--Global Fusion for Small Object Detection**
-
+**Local-Global Fusion for Small Object Detection**  
 [SSRN preprint ↗](https://dx.doi.org/10.2139/ssrn.6190613)
 
-Previous: *Weber Centralized Binary Fusion Description for Fingerprint Liveness Detection* — IEICE 2019
-
+Previous: *Weber Centralized Binary Fusion Description for Fingerprint Liveness Detection* — IEICE 2019  
 [DOI: doi.org/10.1587/transinf.2019EDL8044](https://doi.org/10.1587/transinf.2019EDL8044)
 
 ---
@@ -89,9 +86,10 @@ Previous: *Weber Centralized Binary Fusion Description for Fingerprint Liveness 
 
 ## A bit more
 
-- 📍 Based in Kumamoto — open to Fukuoka, Kobe, Osaka and Tokyo roles, remote or relocation
+- 📍 Based in Kumamoto — open to Fukuoka, Hiroshima, Kobe, Osaka Hokkaido and Tokyo roles, remote or relocation
 - 🇯🇵 Japanese: N3, conversational
-- 🌊 From Samoa originally
+- 🌊 From Pacific Island Country Samoa originally
+- Do you know Disney cartoon **Moana**? Then you know some information about Samoa or other Pacific Island Nations. Cheehoo!
 
 ---
 
