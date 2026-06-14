@@ -96,7 +96,6 @@ Previous: *Weber Centralized Binary Fusion Description for Fingerprint Liveness 
 ## Contact
 
 [![Email](https://img.shields.io/badge/Email-asera.wa@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:asera.wa@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-asera--wa.github.io-000000?style=flat&logo=github&logoColor=white)](https://asera-wa.github.io)
 
 ---
 
