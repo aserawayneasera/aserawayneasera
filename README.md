@@ -36,14 +36,17 @@ Stack: Ruby on Rails 8 · RSpec · Docker Compose · PostgreSQL
 ## Research
 
 **BA-LGF: Bounding-Box Aware Local-Global Feature Fusion for Object Detection in Adverse Weather**  
+
 [DEXA 2026](https://www.dexa.org/2026/dexa2026.html) - Graz, Austria 
 
 Object detectors tend to fall apart in rain and fog. BA-LGF improves detection in those conditions and is designed to run efficiently on edge hardware.
 
 **Local--Global Fusion for Small Object Detection**
+
 [SSRN preprint ↗](https://dx.doi.org/10.2139/ssrn.6190613)
 
 Previous: *Weber Centralized Binary Fusion Description for Fingerprint Liveness Detection* — IEICE 2019
+
 [DOI: doi.org/10.1587/transinf.2019EDL8044](https://doi.org/10.1587/transinf.2019EDL8044)
 
 ---
