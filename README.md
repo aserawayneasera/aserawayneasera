@@ -33,18 +33,6 @@ Stack: Ruby on Rails 8 · RSpec · Docker Compose · PostgreSQL
 
 ---
 
-### [edgewatch](https://github.com/aserawayneasera/edgewatch) — Go
-[short description of what it does — fill this in]
-
-Stack: Go
-
----
-
-### [Portfolio Site](https://asera-wa.github.io) — GitHub Pages
-Personal site with project write-ups and research background.
-
----
-
 ## Research
 
 **BA-LGF: Bounding-Box Aware Local-Global Feature Fusion for Object Detection in Adverse Weather**  
@@ -52,7 +40,7 @@ Personal site with project write-ups and research background.
 
 Object detectors tend to fall apart in rain and fog. BA-LGF improves detection in those conditions and is designed to run efficiently on edge hardware.
 
-** Local--Global Fusion for Small Object Detection**
+**Local--Global Fusion for Small Object Detection**
 [SSRN preprint ↗](https://dx.doi.org/10.2139/ssrn.6190613)
 
 Previous: *Weber Centralized Binary Fusion Description for Fingerprint Liveness Detection* — IEICE 2019
