@@ -1,45 +1,86 @@
 # Hi, I'm Wayne 👋
 
-PhD student in Computer Science at Kumamoto University, Japan — research focus in Object Detection and Computer Vision. IT professional with 8+ years of experience across government, utilities, and international environmental organisations.
+PhD candidate in Computer Science at Kumamoto University — wrapping up soon (hopefully). My research is on object detection in adverse weather (rain, fog, haze) and getting models to run on edge hardware like the Jetson Nano and Raspberry Pi 4.
 
-Currently building projects to transition into product engineering roles in Japan.
+Before the PhD I spent about 7 years working across government, utilities, and environmental organisations in Samoa and Japan. Now building projects to move into product engineering.
 
 ---
 
-## 🚀 Featured Project
+## Projects
 
-### [InvoiceLite](https://github.com/aserawayneasera/invoicelite-django-react)
-A full-stack invoicing SaaS — the same domain as companies like MakeLeaps and Freee.
-
+### [InvoiceLite](https://github.com/aserawayneasera/invoicelite-django-react) — React + Django
+Full-stack invoicing app. Same space as MakeLeaps and Freee.  
 **Live:** https://invoicelite-django-react.vercel.app
 
-| | |
-|---|---|
-| **Frontend** | React 18, TypeScript, Vite, Tailwind CSS, React Query |
-| **Backend** | Python, Django 6, Django REST Framework, JWT auth |
-| **Database** | PostgreSQL |
-| **Deployed** | Vercel + Render |
+Stack: React 18 · TypeScript · Vite · Tailwind CSS · Django 6 · DRF · PostgreSQL · JWT auth · Vercel + Render
 
-Features: client management, invoice CRUD with line items, status tracking (draft/sent/paid/overdue), dashboard stats, JWT authentication.
+Client management, invoice CRUD with line items, status tracking (draft/sent/paid/overdue), dashboard stats.
 
 ---
 
-## 🛠️ Tech Stack
+### [PropView](https://github.com/aserawayneasera/propview) — Vue 3 + TypeScript
+Property listings browser.  
+**Live:** https://propview-flax.vercel.app
+
+Stack: Vue 3 · TypeScript · Pinia · Tailwind CSS · Vitest
+
+---
+
+### [komoju-payment-processor](https://github.com/aserawayneasera/komoju-payment-processor) — Rails 8 API
+Payment webhook processor for KOMOJU. Has 30 RSpec tests and runs with Docker Compose.
+
+Stack: Ruby on Rails 8 · RSpec · Docker Compose · PostgreSQL
+
+---
+
+### [edgewatch](https://github.com/aserawayneasera/edgewatch) — Go
+[short description of what it does — fill this in]
+
+Stack: Go
+
+---
+
+### [Portfolio Site](https://asera-wa.github.io) — GitHub Pages
+Personal site with project write-ups and research background.
+
+---
+
+## Research
+
+**BA-LGF: Bounding-Box Aware Local-Global Feature Fusion for Object Detection in Adverse Weather**  
+[DEXA 2026](https://www.dexa.org/2026/dexa2026.html) - Graz, Austria 
+
+Object detectors tend to fall apart in rain and fog. BA-LGF improves detection in those conditions and is designed to run efficiently on edge hardware.
+
+** Local--Global Fusion for Small Object Detection**
+[SSRN preprint ↗](https://dx.doi.org/10.2139/ssrn.6190613)
+
+Previous: *Weber Centralized Binary Fusion Description for Fingerprint Liveness Detection* — IEICE 2019
+[DOI: doi.org/10.1587/transinf.2019EDL8044](https://doi.org/10.1587/transinf.2019EDL8044)
+
+---
+
+## Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 **Backend**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 **Tools & Deployment**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -48,39 +89,29 @@ Features: client management, invoice CRUD with line items, status tracking (draf
 
 ---
 
-## 📚 Education
+## Education
 
-- 🎓 **PhD, Computer Science** — Kumamoto University *(ongoing, 2023–2026)*  
-  Research: Object Detection · Publication in review
-- 🎓 **Master of Engineering, CS** — Kumamoto University *(2016–2018)*
-  Research: Liveness detection in Fingerprints
-  Published: *Weber Centralized Binary Fusion Description for Fingerprint Liveness Detection*, IEICE 2019
-- 🎓 **BSc, Computer Science** — University of the South Pacific, Fiji *(2004–2009)*
+- 🎓 **PhD, Computer Science** — Kumamoto University *(2023–2026)*
+- 🎓 **MEng, Computer Science** — Kumamoto University *(2016–2018)*
 
 ---
 
-## 🌏 About Me
+## A bit more
 
-- 📍 Based in Kumamoto, Japan — open to Tokyo roles (remote or relocation)
-- 🇯🇵 Japanese: N3 / Conversational
-- 🌊 Originally from Samoa
-- 🔬 Research interests: Computer Vision, Object Detection, Full-Stack Engineering
+- 📍 Based in Kumamoto — open to Fukuoka, Kobe, Osaka and Tokyo roles, remote or relocation
+- 🇯🇵 Japanese: N3, conversational
+- 🌊 From Samoa originally
 
 ---
 
-## 📫 Contact
+## Contact
 
 [![Email](https://img.shields.io/badge/Email-asera.wa@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:asera.wa@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-asera--wa.github.io-000000?style=flat&logo=github&logoColor=white)](https://asera-wa.github.io)
 
+---
 
+こんにちは、アセラです。サモア人で今熊本大学で博士課程をやっています。
+何かあればぜひ気軽にご連絡ください 😊
 
-こんにちは
-初めまして！
-アセラと申します。サモア人で今熊本大学院生で研究しているので興味があるならぜひ聞かせてください。
-よろしくお願いいたします
 メール: asera.wa@gmail.com
-
-<!---
-aserawayneasera/aserawayneasera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
