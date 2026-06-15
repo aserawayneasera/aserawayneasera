@@ -6,6 +6,13 @@ Before the PhD I spent about 7 years working across government, utilities, and e
 
 ---
 
+こんにちは、ウェインと申します。サモア人で今熊本大学で博士課程をやっています。
+何かあればぜひ気軽にご連絡ください 😊
+
+メール: asera.wa@gmail.com
+
+---
+
 ## Projects
 
 ### [InvoiceLite](https://github.com/aserawayneasera/invoicelite-django-react) — React + Django
@@ -97,9 +104,3 @@ Previous: *Weber Centralized Binary Fusion Description for Fingerprint Liveness 
 
 [![Email](https://img.shields.io/badge/Email-asera.wa@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:asera.wa@gmail.com)
 
----
-
-こんにちは、アセラです。サモア人で今熊本大学で博士課程をやっています。
-何かあればぜひ気軽にご連絡ください 😊
-
-メール: asera.wa@gmail.com
