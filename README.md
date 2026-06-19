@@ -1,6 +1,6 @@
 # Hi, I'm Wayne 👋
 
-PhD candidate in Computer Science at Kumamoto University — wrapping up soon (hopefully). My research is on object detection in adverse weather (rain, fog, haze) and getting models to run on edge hardware like the Jetson Nano and Raspberry Pi 4.
+PhD candidate in Computer Science at Kumamoto University - wrapping up soon (hopefully). My research is on object detection in adverse weather (rain, fog, haze) and getting models to run on edge hardware like the Jetson Nano and Raspberry Pi 4.
 
 Before the PhD I spent about 7 years working across government, utilities, and environmental organisations in Samoa and Japan. Now building projects to move into product engineering.
 
@@ -15,7 +15,22 @@ Before the PhD I spent about 7 years working across government, utilities, and e
 
 ## Projects
 
-### [InvoiceLite](https://github.com/aserawayneasera/invoicelite-django-react) — React + Django
+### [Kumamoto Gomi](https://github.com/aserawayneasera/kumamoto-gomi) - Next.js + Supabase + AI
+Multilingual PWA that helps foreign residents of Kumamoto City sort and dispose of household waste correctly. It includes text search, AI photo classification, ward-specific pickup schedules, and an illustrated disposal guide in eight languages.  
+**Live:** https://kumamoto-gomi.vercel.app
+
+Stack: Next.js 14 · TypeScript · Tailwind CSS · Supabase/PostgreSQL · Anthropic Claude Haiku · Vercel
+
+---
+
+### [Discount Shinkansen Ticket Guide](https://github.com/aserawayneasera/How-to-buy-a-discount-Shinkansen-ticket-manual-html) - React
+Interactive decision-tree guide for Kumamoto University students buying discounted Shinkansen tickets between Kumamoto and Osaka. It covers JR Kyushu and Smart EX booking, ticket collection, Japanese-language support, and the student-discount certificate process.
+
+Stack: React · JSX · Babel Standalone · localStorage · Single-file HTML · Netlify
+
+---
+
+### [InvoiceLite](https://github.com/aserawayneasera/invoicelite-django-react) - React + Django
 Full-stack invoicing app. Same space as MakeLeaps and Freee.  
 **Live:** https://invoicelite-django-react.vercel.app
 
@@ -25,7 +40,7 @@ Client management, invoice CRUD with line items, status tracking (draft/sent/pai
 
 ---
 
-### [PropView](https://github.com/aserawayneasera/propview) — Vue 3 + TypeScript
+### [PropView](https://github.com/aserawayneasera/propview) - Vue 3 + TypeScript
 Property listings browser.  
 **Live:** https://propview-flax.vercel.app
 
@@ -33,7 +48,7 @@ Stack: Vue 3 · TypeScript · Pinia · Tailwind CSS · Vitest
 
 ---
 
-### [komoju-payment-processor](https://github.com/aserawayneasera/komoju-payment-processor) — Rails 8 API
+### [komoju-payment-processor](https://github.com/aserawayneasera/komoju-payment-processor) - Rails 8 API
 Payment webhook processor for KOMOJU. Has 30 RSpec tests and runs with Docker Compose.
 
 Stack: Ruby on Rails 8 · RSpec · Docker Compose · PostgreSQL
@@ -50,7 +65,7 @@ Stack: Ruby on Rails 8 · RSpec · Docker Compose · PostgreSQL
 
 Object detectors tend to fall apart in rain and fog. BA-LGF is an extension of LGF and it is designed to run efficiently on edge hardware.
 
-Previous: *Weber Centralized Binary Fusion Description for Fingerprint Liveness Detection* — IEICE 2019  
+Previous: *Weber Centralized Binary Fusion Description for Fingerprint Liveness Detection* - IEICE 2019  
 [DOI: doi.org/10.1587/transinf.2019EDL8044](https://doi.org/10.1587/transinf.2019EDL8044)
 
 ---
@@ -86,14 +101,14 @@ Previous: *Weber Centralized Binary Fusion Description for Fingerprint Liveness 
 
 ## Education
 
-- 🎓 **PhD, Computer Science** — Kumamoto University *(2023–2026)*
-- 🎓 **MEng, Computer Science** — Kumamoto University *(2016–2018)*
+- 🎓 **PhD, Computer Science** - Kumamoto University *(2023–2026)*
+- 🎓 **MEng, Computer Science** - Kumamoto University *(2016–2018)*
 
 ---
 
 ## A bit more
 
-- 📍 Based in Kumamoto — open to Fukuoka, Hiroshima, Kobe, Osaka Hokkaido and Tokyo roles, remote or relocation
+- 📍 Based in Kumamoto - open to Fukuoka, Hiroshima, Kobe, Osaka, Hokkaido, and Tokyo roles, remote or relocation
 - 🇯🇵 Japanese: N3, conversational
 - 🌊 From Pacific Island Country Samoa originally
 - Do you know Disney cartoon **Moana**? Then you know some information about Samoa or other Pacific Island Nations. Cheehoo!
