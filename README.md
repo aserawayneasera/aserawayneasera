@@ -61,7 +61,7 @@ Stack: Ruby on Rails 8 · RSpec · Docker Compose · PostgreSQL
 [SSRN preprint ↗](https://dx.doi.org/10.2139/ssrn.6190613)
 
 **BA-LGF: Budget Aware Local-Global Feature Fusion for Object Detection in Adverse Weather**    
-[DEXA 2026](https://www.dexa.org/2026/dexa2026.html) - Graz, Austria 
+[DEXA 2026](https://www.dexa.org/2026/dexa2026.html) - Graz, Austria (August 11-14)
 
 Object detectors tend to fall apart in rain and fog. BA-LGF is an extension of LGF and it is designed to run efficiently on edge hardware.
 
