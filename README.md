@@ -15,6 +15,12 @@ Before the PhD I spent about 7 years working across government, utilities, and e
 
 ## Projects
 
+### [Kumamoto Hello](https://github.com/aserawayneasera/kumamoto-hello) - Next.js + Supabase + AI
+Multilingual PWA for new foreign residents in Kumamoto, that helps residents move-in to Kumamoto.  
+**Live:** https://kumamoto-hello.vercel.app
+
+Stack: Next.js 14 · TypeScript · Tailwind CSS · Supabase/PostgreSQL · Anthropic Claude Haiku · Vercel
+
 ### [Kumamoto Gomi](https://github.com/aserawayneasera/kumamoto-gomi) - Next.js + Supabase + AI
 Multilingual PWA that helps foreign residents of Kumamoto City sort and dispose of household waste correctly. It includes text search, AI photo classification, ward-specific pickup schedules, and an illustrated disposal guide in eight languages.  
 **Live:** https://kumamoto-gomi.vercel.app
