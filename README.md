@@ -107,8 +107,8 @@ Previous: *Weber Centralized Binary Fusion Description for Fingerprint Liveness 
 
 ## Education
 
-- 🎓 **PhD, Computer Science** - Kumamoto University *(2023–2026)*
-- 🎓 **MEng, Computer Science** - Kumamoto University *(2016–2018)*
+- 🎓 **PhD, Computer Science** - Kumamoto University *(Oct 2023–Mar 2027)*
+- 🎓 **MEng, Computer Science** - Kumamoto University *(Oct 2016–Sept 2018)*
 
 ---
 
